@@ -4,7 +4,9 @@
 
 ## The Basics
 
-* [Spaces](the-basics/spaces.md)
+* [Spaces](the-basics/spaces/README.md)
+  * [Under Spaces](the-basics/spaces/under-spaces/README.md)
+    * [Page 3](the-basics/spaces/under-spaces/page-3.md)
 * [Collections](the-basics/collections.md)
 * [The GitBook editor](the-basics/the-gitbook-editor.md)
 * [Live edit and locked edits](the-basics/live-edit-and-locked-edits.md)
