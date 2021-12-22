@@ -9,6 +9,7 @@
 * [The GitBook editor](the-basics/the-gitbook-editor.md)
 * [Live edit and locked edits](the-basics/live-edit-and-locked-edits.md)
 * [Change requests](the-basics/change-requests.md)
+* [Page 1](the-basics/page-1.md)
 
 ## Publishing
 
